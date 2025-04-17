@@ -1,0 +1,12 @@
+#meuCanvas
+{
+    background-color: #131a57;
+}
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: #131a57;
+    background-image: url('fundao.jpg');
+}
